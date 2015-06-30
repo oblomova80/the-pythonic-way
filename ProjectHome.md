@@ -1,0 +1,1 @@
+Codice sorgente degli esercizi conclusivi e degli esempi significativi del libro "Programmare con Python - Guida completa", edito dalla LSWR.
